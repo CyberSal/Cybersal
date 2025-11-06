@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Salmata Lamin  
 
-🎯 **Cybersecurity | Network Security | SOC Analyst | Cisco Voice Network Engineer**
+🎯 **Cybersecurity | Network Security | SOC Analyst | Cisco Voice Network Administrator**
 
 ---
 
