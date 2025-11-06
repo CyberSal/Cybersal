@@ -42,7 +42,7 @@ I’m passionate about leveraging both **red team insight** and **blue team defe
 | 🎣 [**06_Traffic_Interception_and_Analysis**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/06_Traffic_Interception_and_Analysis) | ARP poisoning, DHCP starvation, and passive traffic interception | Man-in-the-Middle (MITM) |
 | 💣 [**07_DoS_and_Defense_Tuning**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/07_DoS_and_Defense_Tuning) | Volumetric SYN floods and distributed denial of service attack simulation | Attack Mitigation |
 | 🔐 [**08_Encryption_and_Cryptography**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/08_Encryption_and_Cryptography) | Hashing for integrity (SHA-256), AES encryption, and password cracking | Data Confidentiality |
-| 🛡️ [**09_Network_Protocol_Forensics_and_Threat_Hunting**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/09_Network_Protocol_Forensics_and_Threat_Hunting) | Snort rule implementation, Linux `iptables` defense, and protocol analysis. | Perimeter Defense |
+| 🛡️ [**09_Network_Protocol_Forensics_and_Threat_Hunting**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/09_Network_ProtocolForensicsandThreatHunting) | Snort rule implementation, Linux `iptables` defense, and protocol analysis. | Perimeter Defense |
 | 🗃️ [**10_Forensics_and_Data_Recovery**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/10_Forensics_and_Data_Recovery) | **Autopsy case analysis** to investigate overlapping covert operations and verify image integrity. | Digital Forensics Case Study |
 
 --- 
