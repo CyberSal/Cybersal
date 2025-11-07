@@ -61,7 +61,7 @@ I’m passionate about leveraging both **red team insight** and **blue team defe
 ---
 
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/salmata-lamin)  
+
 - 📁 [Portfolio Repositories](https://github.com/cybersal?tab=repositories)
 
 ---
