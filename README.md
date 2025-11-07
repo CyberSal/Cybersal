@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Salmata Lamin  
+# 👋🏽 Hi, I'm CyberSal  
 
 🎯 **Cybersecurity | Network Security | SOC Analyst | Cisco Voice Network Administrator**
 
@@ -56,7 +56,7 @@ I’m passionate about leveraging both **red team insight** and **blue team defe
 ---
 
 ## 🧭 Education
-🎓 **A.A.S. in Cybersecurity**, Wake Technical Community College (Dec 2024)  
+🎓 **A.A.S. in Cybersecurity**, Wake Technical Community College 
 
 ---
 
