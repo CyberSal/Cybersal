@@ -64,7 +64,7 @@ I’m passionate about leveraging both **red team insight** and **blue team defe
 ## 🌍 Let's Connect
 
 - 📁 [Portfolio Repositories](https://github.com/cybersal?tab=repositories)
-
+- [LinkedIN](https://www.linkedin.com/in/salmata-lamin/)
 ---
 
 > _“Cybersecurity is not just defense — it’s understanding the offense to protect what matters.”_  
