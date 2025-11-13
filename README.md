@@ -34,7 +34,7 @@ I’m passionate about leveraging both **red team insight** and **blue team defe
 
 | Project | Description | Focus Area |
 | :--- | :--- | :--- |
-| **1. 🌐** | [**Enterprise NOC Simulation Lab**](https://github.com/CyberSal/Enterprise-NOC-Simulation-Lab) | **[ONGOING PROJECT]** Complex Inter-VLAN troubleshooting, HSRP implementation, and proactive monitoring setup (SNMP/Syslog). | **Network Engineering & Resilience** |
+| **1. 🌐** | [**Enterprise NOC Simulation Lab**](https://github.com/CyberSal/Enterprise-NOC-Simulation-Lab) | **[ONGOING PROJECT]** Complex Inter-VLAN troubleshooting, HSRP implementation, and proactive monitoring setup (SNMP/Syslog) integrating VOIP. | **Network Engineering & Resilience** |
 | 2. 🛡️ | [**IDS/Firewall Configuration**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/09_Network%20Protocol%20Forensics%20and%20Threat%20Hunting) | Snort rule implementation, Linux `iptables` defense configuration, and basic protocol analysis. | Perimeter Defense |
 | 3. 🔍 | [**Enumeration and Service Discovery**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/02_Enumeration_and_Service_Discovery) | Deep SNMP, LDAP, and DNS enumeration to uncover critical configuration flaws. | Vulnerability Analysis |
 | 4. 🧱 | [**Vulnerability Assessment**](https://github.com/CyberSal/Cybersecurity-Portfolio/tree/main/03_Vulnerability_Assessment) | Authenticated vulnerability scanning (Nessus/OpenVAS) and **risk prioritization** using NVD/CVSS scoring. | System Hardening |
