@@ -12,7 +12,9 @@ My experience bridges **offensive and defensive security**, combining Cisco netw
 - **EC-Council CEH (Certified Ethical Hacker)** — mastering penetration testing, footprinting, enumeration, web application attacks, and post-exploitation.  
 - **Cisco DevNet Associate** — learning Python automation for network devices, API integration, and secure infrastructure automation.
 
-I’m passionate about leveraging both **red team insight** and **blue team defense** to build resilient networks and smarter security systems.
+My experience is driven by a passion for network architecture and systems design, focusing on how to build resilient and secure infrastructures from the ground up. I bridge offensive and defensive security, combining Cisco networking with security analytics, scripting, and vulnerability testing.
+
+I’m passionate about leveraging both red team insight and blue team defense to engineer robust network solutions and smarter security systems.
 
 ---
 
@@ -20,7 +22,7 @@ I’m passionate about leveraging both **red team insight** and **blue team defe
 | Category | Tools / Technologies |
 |-----------|----------------------|
 | **Security & Forensics** | Wireshark · Security Onion · Autopsy · Snort · Nessus · Nmap · Burp Suite · Metasploit |
-| **Networking** | Cisco IOS · VLANs · NAT · SNMP · DNS · DHCP · OSPF · EIGRP |
+| **Networking** |VOIP/SIP · Cisco IOS · VLANs · NAT · SNMP · DNS · DHCP · OSPF · EIGRP |
 | **Automation & DevNet** | Python · REST APIs · Postman · JSON/YAML · GitHub Actions · Ansible |
 | **Offensive Security (CEH)** | Reconnaissance · Enumeration · Exploitation · Privilege Escalation · Malware Analysis |
 | **Defensive Security** | SOC Monitoring · Log Analysis · Threat Detection · IDS/IPS Configuration |
