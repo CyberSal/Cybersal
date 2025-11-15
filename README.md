@@ -26,7 +26,7 @@ I’m passionate about leveraging both red team insight and blue team defense to
 | **Automation & DevNet** | Python · REST APIs · Postman · JSON/YAML · GitHub Actions · Ansible |
 | **Offensive Security (CEH)** | Reconnaissance · Enumeration · Exploitation · Privilege Escalation · Malware Analysis |
 | **Defensive Security** | SOC Monitoring · Log Analysis · Threat Detection · IDS/IPS Configuration |
-| **Systems** | Windows Server 2019/2022 · Linux (Parrot, Kali) |
+| **Systems** |Windows Server 2008 · Windows Server 2019/2022 · Windows 10/11 · Linux (Parrot, Kali) |
 | **SIEM & Analysis** | Splunk · ELK Stack · Sysmon |
 | **Version Control** | Git · GitHub |
 
