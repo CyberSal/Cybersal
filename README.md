@@ -68,3 +68,4 @@ My experience is driven by a passion for **network architecture and systems desi
 
 > _“Cybersecurity is not just defense — it’s understanding the offense to protect what matters.”_  
 > _Currently blending Cisco networking, DevNet automation, and CEH ethical hacking to strengthen full-spectrum cyber defense._
+> ![Profile Views](https://komarev.com/ghpvc/?username=cybersal&color=0E9C47&style=for-the-badge)
