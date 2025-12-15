@@ -56,10 +56,6 @@ My experience is driven by a passion for **network architecture and systems desi
 - **EC-Council CEH (v13)** — in progress  
 - **Cisco DevNet Associate (DEVASC)** — in progress  
 
----
-
-## 🧭 Education
-🎓 **A.A.S. in Cybersecurity**, Wake Technical Community College (Dec 2024)  
 
 ---
 
